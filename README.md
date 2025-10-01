@@ -9,8 +9,6 @@ This repository contains **additional assets** (images, configuration files, ico
 The repository includes the following types of resources:
 
 - **Images** – logos, mockups, icons, and banners used throughout the WATcalendars project.  
-- **Configuration files** – JSON, CSS, and other config files used for styling and setup.  
-- **Documentation assets** – screenshots, diagrams, and instructional graphics.  
 - **Other resources** – any additional files necessary for proper functioning or presentation of the WATcalendars project.
 
 ---
