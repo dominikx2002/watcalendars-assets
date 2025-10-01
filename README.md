@@ -36,8 +36,3 @@ Contributions are welcome! You can help by:
 - Organizing the repository structure for easier navigation.  
 
 Please follow the naming conventions and folder structure to maintain consistency.
-
----
-
-## 📌 Folder Structure
-
